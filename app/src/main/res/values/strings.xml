@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="textview1">Váha</string>
+    <string name="textview2">kg</string>
+    <string name="vaha" />
+    <string name="radiobutton1">Centimetry</string>
+    <string name="radiobutton2">Metry</string>
+    <string name="textview4">Výška</string>
+    <string name="name2" />
+    <string name="textview5">Jste muž nebo žena?</string>
+    <string name="chip1">Muž</string>
+    <string name="radiobutton">Muž</string>
+    <string name="radiobutton4">Žena</string>
+    <string name="switch1">Nechci udávat pohlaví</string>
+    <string name="textview7">Věk</string>
+    <string name="textview9">Věk</string>
+    <string name="button_vypocitej">VYPOČÍTEJ</string>
+    <string name="textview">Výsledek</string>
+    <string name="vysledekUkaz">x</string>
+    <string name="textViewBmi">Vaše BMI je :</string>
+    <string name="textviewBMI">Vaše BMI se rovná :</string>
+    <string name="textviewBMIvysledek" />
+
+    <string name="textviewSrovnaniText" />
+    <string name="textviewSrovnaniText2" />
+    <string name="textviewPopisek" />
+
+    <string name="textviewPopis" />
+    <color name="seda">#ababab</color>
+    <string name="title_activity_vysledek">VysledekActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview_d">Vaše BMI se rovná:</string>
+    <string name="textview_d2">x</string>
+    <string name="button_novaAktivita">Zobraz Výsledek na Nové Aktivitě</string>
+
+    <string name="buttond1">Zpět</string>
+    <string name="textKOdeslani">\?</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+
+
+</resources>
